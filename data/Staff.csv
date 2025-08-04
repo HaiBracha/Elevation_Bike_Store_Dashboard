@@ -1,0 +1,297 @@
+StaffMemberID,FirstName,MiddleName,LastName,Title,BirthDate,HireDate,Email,Phone,MaritalStatus,Gender,BaseRate,DepartmentName,ManagerID
+1,Guy,R,Gilbert,Production Technician - WC60,00:00.0,00:00.0,guy1@elevation-bikes.com,320-555-0195,M,M,12.45,Production,18
+2,Kevin,F,Brown,Marketing Assistant,00:00.0,00:00.0,kevin0@elevation-bikes.com,150-555-0189,S,M,13.4615,Marketing,7
+3,Roberto,NULL,Tamburello,Engineering Manager,00:00.0,00:00.0,roberto0@elevation-bikes.com,212-555-0187,M,M,43.2692,Engineering,14
+4,Rob,NULL,Walters,Senior Tool Designer,00:00.0,00:00.0,rob0@elevation-bikes.com,612-555-0100,S,M,29.8462,Tool Design,3
+5,Rob,NULL,Walters,Senior Tool Designer,00:00.0,00:00.0,rob0@elevation-bikes.com,612-555-0100,S,M,29.8462,Tool Design,3
+6,Thierry,B,D'Hers,Tool Designer,00:00.0,00:00.0,thierry0@elevation-bikes.com,168-555-0183,M,M,25,Tool Design,267
+7,David,M,Bradley,Marketing Manager,00:00.0,00:00.0,david0@elevation-bikes.com,913-555-0172,S,M,37.5,Marketing,112
+8,David,M,Bradley,Marketing Manager,00:00.0,00:00.0,david0@elevation-bikes.com,913-555-0172,S,M,37.5,Marketing,112
+9,JoLynn,M,Dobney,Production Supervisor - WC60,00:00.0,00:00.0,jolynn0@elevation-bikes.com,903-555-0145,S,F,25,Production,23
+10,Ruth,Ann,Ellerbrock,Production Technician - WC10,00:00.0,00:00.0,ruth0@elevation-bikes.com,145-555-0130,M,F,13.45,Production,189
+11,Gail,A,Erickson,Design Engineer,00:00.0,00:00.0,gail0@elevation-bikes.com,849-555-0139,M,F,32.6923,Engineering,3
+12,Barry,K,Johnson,Production Technician - WC10,00:00.0,00:00.0,barry0@elevation-bikes.com,206-555-0180,S,M,13.45,Production,189
+13,Jossef,H,Goldberg,Design Engineer,00:00.0,00:00.0,jossef0@elevation-bikes.com,122-555-0189,M,M,32.6923,Engineering,3
+14,Terri,Lee,Duffy,Vice President of Engineering,00:00.0,00:00.0,terri0@elevation-bikes.com,819-555-0175,S,F,63.4615,Engineering,112
+15,Sidney,M,Higa,Production Technician - WC10,00:00.0,00:00.0,sidney0@elevation-bikes.com,424-555-0189,M,M,13.45,Production,189
+16,Taylor,R,Maxwell,Production Supervisor - WC50,00:00.0,00:00.0,taylor0@elevation-bikes.com,508-555-0165,M,M,25,Production,23
+17,Jeffrey,L,Ford,Production Technician - WC10,00:00.0,00:00.0,jeffrey0@elevation-bikes.com,984-555-0185,S,M,13.45,Production,189
+18,Jo,A,Brown,Production Supervisor - WC60,00:00.0,00:00.0,jo0@elevation-bikes.com,632-555-0129,S,F,25,Production,23
+19,Doris,M,Hartwig,Production Technician - WC10,00:00.0,00:00.0,doris0@elevation-bikes.com,328-555-0150,M,F,13.45,Production,189
+20,John,T,Campbell,Production Supervisor - WC60,00:00.0,00:00.0,john0@elevation-bikes.com,435-555-0113,M,M,25,Production,23
+21,Diane,R,Glimp,Production Technician - WC10,00:00.0,00:00.0,diane0@elevation-bikes.com,202-555-0151,M,F,13.45,Production,189
+22,Steven,T,Selikoff,Production Technician - WC30,00:00.0,00:00.0,steven0@elevation-bikes.com,925-555-0114,M,M,9.5,Production,177
+23,Peter,J,Krebs,Production Control Manager,00:00.0,00:00.0,peter0@elevation-bikes.com,913-555-0196,M,M,24.5192,Production Control,112
+24,Stuart,V,Munson,Production Technician - WC45,00:00.0,00:00.0,stuart0@elevation-bikes.com,413-555-0136,S,M,10,Production,201
+25,Greg,F,Alderson,Production Technician - WC45,00:00.0,00:00.0,greg0@elevation-bikes.com,332-555-0150,S,M,10,Production,201
+26,David,N,Johnson,Production Technician - WC30,00:00.0,00:00.0,david1@elevation-bikes.com,166-555-0162,S,M,9.5,Production,188
+27,Zheng,W,Mu,Production Supervisor - WC10,00:00.0,00:00.0,zheng0@elevation-bikes.com,113-555-0173,S,M,25,Production,23
+28,Ivo,William,Salmre,Production Technician - WC20,00:00.0,00:00.0,ivo0@elevation-bikes.com,115-555-0179,M,M,14,Production,111
+29,Paul,B,Komosinski,Production Technician - WC40,00:00.0,00:00.0,paul0@elevation-bikes.com,147-555-0160,S,M,15,Production,89
+30,Ashvini,R,Sharma,Network Administrator,00:00.0,00:00.0,ashvini0@elevation-bikes.com,656-555-0119,S,M,32.4519,Information Services,154
+31,Kendall,C,Keil,Production Technician - WC50,00:00.0,00:00.0,kendall0@elevation-bikes.com,138-555-0128,M,M,11,Production,16
+32,Paula,M,Barreto de Mattos,Human Resources Manager,00:00.0,00:00.0,paula0@elevation-bikes.com,523-555-0175,M,F,27.1394,Human Resources,143
+33,Alejandro,E,McGuel,Production Technician - WC40,00:00.0,00:00.0,alejandro0@elevation-bikes.com,668-555-0130,S,M,15,Production,214
+34,Garrett,R,Young,Production Technician - WC30,00:00.0,00:00.0,garrett0@elevation-bikes.com,609-555-0179,S,M,9.5,Production,188
+35,Jian Shuo,NULL,Wang,Production Technician - WC30,00:00.0,00:00.0,jianshuo0@elevation-bikes.com,952-555-0178,S,M,9.5,Production,138
+36,Susan,W,Eaton,Stocker,00:00.0,00:00.0,susan0@elevation-bikes.com,943-555-0196,S,F,9,Shipping and Receiving,87
+37,Vamsi,N,Kuppa,Shipping and Receiving Clerk,00:00.0,00:00.0,vamsi0@elevation-bikes.com,937-555-0137,M,M,9.5,Shipping and Receiving,87
+38,Alice,O,Ciccu,Production Technician - WC50,00:00.0,00:00.0,alice0@elevation-bikes.com,333-555-0173,M,F,11,Production,40
+39,Simon,D,Rapier,Production Technician - WC60,00:00.0,00:00.0,simon0@elevation-bikes.com,963-555-0134,S,M,12.45,Production,9
+40,Jinghao,K,Liu,Production Supervisor - WC50,00:00.0,00:00.0,jinghao0@elevation-bikes.com,794-555-0159,S,M,25,Production,23
+41,Michael,T,Hines,Production Technician - WC20,00:00.0,00:00.0,michael0@elevation-bikes.com,218-555-0126,S,M,14,Production,186
+42,Yvonne,S,McKay,Production Technician - WC45,00:00.0,00:00.0,yvonne0@elevation-bikes.com,286-555-0189,M,F,10,Production,163
+43,Peng,J,Wu,Quality Assurance Supervisor,00:00.0,00:00.0,peng0@elevation-bikes.com,164-555-0164,M,M,21.6346,Quality Assurance,204
+44,Jean,E,Trenary,Information Services Manager,00:00.0,00:00.0,jean0@elevation-bikes.com,685-555-0120,S,F,50.4808,Information Services,112
+45,Russell,NULL,Hunter,Production Technician - WC50,00:00.0,00:00.0,russell0@elevation-bikes.com,786-555-0144,M,M,11,Production,76
+46,A. Scott,NULL,Wright,Master Scheduler,00:00.0,00:00.0,ascott0@elevation-bikes.com,992-555-0194,S,M,23.5577,Production Control,23
+47,Fred,T,Northup,Production Technician - WC40,00:00.0,00:00.0,fred0@elevation-bikes.com,818-555-0192,S,M,15,Production,214
+48,Sariya,E,Harnpadoungsataya,Marketing Specialist,00:00.0,00:00.0,sariya0@elevation-bikes.com,399-555-0176,S,M,14.4231,Marketing,7
+49,Willis,T,Johnson,Recruiter,00:00.0,00:00.0,willis0@elevation-bikes.com,778-555-0141,S,M,18.2692,Human Resources,32
+50,Jun,T,Cao,Production Technician - WC50,00:00.0,00:00.0,jun0@elevation-bikes.com,299-555-0113,S,M,11,Production,40
+51,Christian,E,Kleinerman,Maintenance Supervisor,00:00.0,00:00.0,christian0@elevation-bikes.com,846-555-0157,M,M,20.4327,Facilities and Maintenance,222
+52,Susan,A,Metters,Production Technician - WC30,00:00.0,00:00.0,susan1@elevation-bikes.com,639-555-0164,S,F,9.5,Production,188
+53,Reuben,H,D'sa,Production Supervisor - WC40,00:00.0,00:00.0,reuben0@elevation-bikes.com,191-555-0112,M,M,25,Production,23
+54,Kirk,J,Koenigsbauer,Production Technician - WC45,00:00.0,00:00.0,kirk0@elevation-bikes.com,669-555-0150,S,M,10,Production,126
+55,David,J,Ortiz,Production Technician - WC60,00:00.0,00:00.0,david2@elevation-bikes.com,712-555-0119,M,M,12.45,Production,20
+56,Tengiz,N,Kharatishvili,Control Specialist,00:00.0,00:00.0,tengiz0@elevation-bikes.com,910-555-0116,S,M,16.8269,Document Control,92
+57,Hanying,P,Feng,Production Technician - WC20,00:00.0,00:00.0,hanying0@elevation-bikes.com,319-555-0139,S,M,14,Production,147
+58,Kevin,H,Liu,Production Technician - WC40,00:00.0,00:00.0,kevin1@elevation-bikes.com,714-555-0138,S,M,15,Production,214
+59,Annik,O,Stahl,Production Technician - WC60,00:00.0,00:00.0,annik0@elevation-bikes.com,499-555-0125,M,M,12.45,Production,18
+60,Suroor,R,Fatima,Production Technician - WC50,00:00.0,00:00.0,suroor0@elevation-bikes.com,932-555-0161,S,M,11,Production,40
+61,Deborah,E,Poe,Accounts Receivable Specialist,00:00.0,00:00.0,deborah0@elevation-bikes.com,602-555-0194,M,F,19,Finance,142
+62,Jim,H,Scardelis,Production Technician - WC50,00:00.0,00:00.0,jim0@elevation-bikes.com,679-555-0113,M,M,11,Production,76
+63,Carole,M,Poland,Production Technician - WC30,00:00.0,00:00.0,carole0@elevation-bikes.com,688-555-0192,M,F,9.5,Production,177
+64,George,Z,Li,Production Technician - WC30,00:00.0,00:00.0,george0@elevation-bikes.com,518-555-0199,M,M,9.5,Production,188
+65,Gary,W,Yukish,Production Technician - WC40,00:00.0,00:00.0,gary0@elevation-bikes.com,901-555-0125,S,M,15,Production,89
+66,Cristian,K,Petculescu,Production Supervisor - WC10,00:00.0,00:00.0,cristian0@elevation-bikes.com,434-555-0133,M,M,25,Production,23
+67,Raymond,K,Sam,Production Technician - WC20,00:00.0,00:00.0,raymond0@elevation-bikes.com,226-555-0197,M,M,14,Production,147
+68,Janaina,Barreiro Gambaro,Bueno,Application Specialist,00:00.0,00:00.0,janaina0@elevation-bikes.com,623-555-0155,M,F,27.4038,Information Services,44
+69,Bob,N,Hohman,Production Technician - WC50,00:00.0,00:00.0,bob0@elevation-bikes.com,611-555-0116,S,M,11,Production,16
+70,Shammi,G,Mohamed,Production Technician - WC40,00:00.0,00:00.0,shammi0@elevation-bikes.com,793-555-0179,M,M,15,Production,214
+71,Linda,K,Moschell,Production Technician - WC50,00:00.0,00:00.0,linda0@elevation-bikes.com,612-555-0171,M,F,11,Production,40
+72,Mindy,C,Martin,Benefits Specialist,00:00.0,00:00.0,mindy0@elevation-bikes.com,522-555-0147,M,F,16.5865,Human Resources,32
+73,Wendy,Beth,Kahn,Finance Manager,00:00.0,00:00.0,wendy0@elevation-bikes.com,248-555-0134,S,F,43.2692,Finance,143
+74,Kim,T,Ralls,Stocker,00:00.0,00:00.0,kim0@elevation-bikes.com,309-555-0129,S,F,9,Shipping and Receiving,87
+75,Sandra,NULL,Reátegui Alayo,Production Technician - WC30,00:00.0,00:00.0,sandra0@elevation-bikes.com,896-555-0168,M,F,9.5,Production,138
+76,Kok-Ho,T,Loh,Production Supervisor - WC50,00:00.0,00:00.0,kok-ho0@elevation-bikes.com,999-555-0155,S,M,25,Production,23
+77,Douglas,B,Hite,Production Technician - WC45,00:00.0,00:00.0,douglas0@elevation-bikes.com,808-555-0172,M,M,10,Production,163
+78,James,D,Kramer,Production Technician - WC60,00:00.0,00:00.0,james0@elevation-bikes.com,119-555-0117,M,M,12.45,Production,9
+79,Sean,P,Alexander,Quality Assurance Technician,00:00.0,00:00.0,sean0@elevation-bikes.com,420-555-0173,S,M,10.5769,Quality Assurance,43
+80,Nitin,S,Mirchandani,Production Technician - WC20,00:00.0,00:00.0,nitin0@elevation-bikes.com,143-555-0173,S,M,14,Production,186
+81,Diane,L,Margheim,Research and Development Engineer,00:00.0,00:00.0,diane1@elevation-bikes.com,815-555-0138,S,F,40.8654,Research and Development,162
+82,Rebecca,A,Laszlo,Production Technician - WC60,00:00.0,00:00.0,rebecca0@elevation-bikes.com,314-555-0113,M,F,12.45,Production,18
+83,Rajesh,M,Patel,Production Technician - WC40,00:00.0,00:00.0,rajesh0@elevation-bikes.com,373-555-0137,M,M,15,Production,214
+84,Vidur,X,Luthra,Recruiter,00:00.0,00:00.0,vidur0@elevation-bikes.com,153-555-0186,S,M,18.2692,Human Resources,32
+85,John,P,Evans,Production Technician - WC50,00:00.0,00:00.0,john1@elevation-bikes.com,172-555-0130,S,M,11,Production,40
+86,Nancy,A,Anderson,Production Technician - WC60,00:00.0,00:00.0,nancy0@elevation-bikes.com,970-555-0118,M,F,12.45,Production,9
+87,Pilar,G,Ackerman,Shipping and Receiving Supervisor,00:00.0,00:00.0,pilar0@elevation-bikes.com,577-555-0185,S,M,19.2308,Shipping and Receiving,23
+88,David,A,Yalovsky,Production Technician - WC30,00:00.0,00:00.0,david3@elevation-bikes.com,373-555-0142,S,M,9.5,Production,188
+89,David,P,Hamilton,Production Supervisor - WC40,00:00.0,00:00.0,david4@elevation-bikes.com,986-555-0177,S,M,25,Production,23
+90,Laura,C,Steele,Production Technician - WC45,00:00.0,00:00.0,laura0@elevation-bikes.com,777-555-0141,S,F,10,Production,126
+91,Margie,W,Shoop,Production Technician - WC60,00:00.0,00:00.0,margie0@elevation-bikes.com,818-555-0128,M,F,12.45,Production,18
+92,Zainal,T,Arifin,Document Control Manager,00:00.0,00:00.0,zainal0@elevation-bikes.com,204-555-0115,M,M,17.7885,Document Control,204
+93,Lorraine,O,Nay,Production Technician - WC40,00:00.0,00:00.0,lorraine0@elevation-bikes.com,845-555-0184,M,F,15,Production,214
+94,Fadi,K,Fakhouri,Production Technician - WC20,00:00.0,00:00.0,fadi0@elevation-bikes.com,935-555-0116,S,M,14,Production,147
+95,Ryan,L,Cornelsen,Production Technician - WC40,00:00.0,00:00.0,ryan0@elevation-bikes.com,208-555-0114,M,M,15,Production,53
+96,Candy,L,Spoon,Accounts Receivable Specialist,00:00.0,00:00.0,candy0@elevation-bikes.com,920-555-0177,S,F,19,Finance,142
+97,Nuan,NULL,Yu,Production Technician - WC50,00:00.0,00:00.0,nuan0@elevation-bikes.com,913-555-0184,S,M,11,Production,76
+98,William,S,Vong,Scheduling Assistant,00:00.0,00:00.0,william0@elevation-bikes.com,148-555-0145,M,M,16,Production Control,46
+99,William,S,Vong,Scheduling Assistant,00:00.0,00:00.0,william0@elevation-bikes.com,148-555-0145,M,M,16,Production Control,46
+100,Bjorn,M,Rettig,Production Technician - WC30,00:00.0,00:00.0,bjorn0@elevation-bikes.com,199-555-0117,S,M,9.5,Production,177
+101,Scott,R,Gode,Production Technician - WC45,00:00.0,00:00.0,scott0@elevation-bikes.com,391-555-0138,M,M,10,Production,201
+102,Michael,L,Rothkugel,Production Technician - WC40,00:00.0,00:00.0,michael1@elevation-bikes.com,454-555-0119,S,M,15,Production,89
+103,Lane,M,Sacksteder,Production Technician - WC20,00:00.0,00:00.0,lane0@elevation-bikes.com,200-555-0117,M,M,14,Production,147
+104,Pete,C,Male,Production Technician - WC50,00:00.0,00:00.0,pete0@elevation-bikes.com,768-555-0123,S,M,11,Production,16
+105,Dan,K,Bacon,Application Specialist,00:00.0,00:00.0,dan0@elevation-bikes.com,166-555-0159,M,M,27.4038,Information Services,44
+106,David,M,Barber,Assistant to the Chief Financial Officer,00:00.0,00:00.0,david5@elevation-bikes.com,477-555-0132,S,M,13.4615,Finance,143
+107,Lolan,B,Song,Production Technician - WC50,00:00.0,00:00.0,lolan0@elevation-bikes.com,582-555-0178,M,M,11,Production,76
+108,Paula,R,Nartker,Production Technician - WC40,00:00.0,00:00.0,paula1@elevation-bikes.com,476-555-0119,M,F,15,Production,214
+109,Mary,E,Gibson,Marketing Specialist,00:00.0,00:00.0,mary0@elevation-bikes.com,531-555-0183,M,F,14.4231,Marketing,7
+110,Mindaugas,J,Krapauskas,Production Technician - WC50,00:00.0,00:00.0,mindaugas0@elevation-bikes.com,637-555-0120,M,M,11,Production,40
+111,Eric,NULL,Gubbels,Production Supervisor - WC20,00:00.0,00:00.0,eric0@elevation-bikes.com,260-555-0119,M,M,25,Production,23
+112,Ken,J,Sánchez,Chief Executive Officer,00:00.0,00:00.0,ken0@elevation-bikes.com,697-555-0142,S,M,125.5,Executive,NULL
+113,Jason,M,Watters,Production Technician - WC30,00:00.0,00:00.0,jason0@elevation-bikes.com,571-555-0179,S,M,9.5,Production,138
+114,Mark,L,Harrington,Quality Assurance Technician,00:00.0,00:00.0,mark0@elevation-bikes.com,147-555-0179,S,M,10.5769,Quality Assurance,43
+115,Janeth,M,Esteves,Production Technician - WC45,00:00.0,00:00.0,janeth0@elevation-bikes.com,540-555-0191,S,F,10,Production,163
+116,Marc,J,Ingle,Production Technician - WC30,00:00.0,00:00.0,marc0@elevation-bikes.com,234-555-0169,M,M,9.5,Production,188
+117,Gigi,N,Matthew,Research and Development Engineer,00:00.0,00:00.0,gigi0@elevation-bikes.com,185-555-0186,M,F,40.8654,Research and Development,162
+118,Paul,R,Singh,Production Technician - WC20,00:00.0,00:00.0,paul1@elevation-bikes.com,727-555-0112,M,M,14,Production,111
+119,Frank,T,Lee,Production Technician - WC40,00:00.0,00:00.0,frank0@elevation-bikes.com,158-555-0191,M,M,15,Production,214
+120,François,P,Ajenstat,Database Administrator,00:00.0,00:00.0,françois0@elevation-bikes.com,785-555-0110,S,M,38.4615,Information Services,44
+121,Diane,H,Tibbott,Production Technician - WC50,00:00.0,00:00.0,diane2@elevation-bikes.com,361-555-0180,S,F,11,Production,16
+122,Jill,A,Williams,Marketing Specialist,00:00.0,00:00.0,jill0@elevation-bikes.com,510-555-0121,M,F,14.4231,Marketing,7
+123,Angela,W,Barbariol,Production Technician - WC50,00:00.0,00:00.0,angela0@elevation-bikes.com,150-555-0194,S,F,11,Production,40
+124,Matthias,T,Berndt,Shipping and Receiving Clerk,00:00.0,00:00.0,matthias0@elevation-bikes.com,139-555-0120,M,M,9.5,Shipping and Receiving,87
+125,Bryan,NULL,Baker,Production Technician - WC60,00:00.0,00:00.0,bryan0@elevation-bikes.com,712-555-0113,S,M,12.45,Production,9
+126,Jeff,V,Hay,Production Supervisor - WC45,00:00.0,00:00.0,jeff0@elevation-bikes.com,350-555-0167,M,M,25,Production,23
+127,Eugene,R,Zabokritski,Production Technician - WC30,00:00.0,00:00.0,eugene0@elevation-bikes.com,241-555-0191,S,M,9.5,Production,188
+128,Barbara,S,Decker,Production Technician - WC20,00:00.0,00:00.0,barbara0@elevation-bikes.com,119-555-0192,M,F,14,Production,186
+129,Chris,T,Preston,Production Technician - WC45,00:00.0,00:00.0,chris0@elevation-bikes.com,200-555-0112,M,M,10,Production,126
+130,Sean,N,Chai,Document Control Assistant,00:00.0,00:00.0,sean1@elevation-bikes.com,205-555-0132,S,M,10.25,Document Control,92
+131,Dan,B,Wilson,Database Administrator,00:00.0,00:00.0,dan1@elevation-bikes.com,653-555-0144,M,M,38.4615,Information Services,44
+132,Mark,K,McArthur,Production Technician - WC60,00:00.0,00:00.0,mark1@elevation-bikes.com,417-555-0154,S,M,12.45,Production,18
+133,Bryan,A,Walton,Accounts Receivable Specialist,00:00.0,00:00.0,bryan1@elevation-bikes.com,935-555-0199,S,M,19,Finance,142
+134,Houman,N,Pournasseh,Production Technician - WC50,00:00.0,00:00.0,houman0@elevation-bikes.com,180-555-0136,M,M,11,Production,76
+135,Sairaj,L,Uddin,Scheduling Assistant,00:00.0,00:00.0,sairaj0@elevation-bikes.com,500-555-0159,M,M,16,Production Control,46
+136,Michiko,F,Osada,Production Technician - WC30,00:00.0,00:00.0,michiko0@elevation-bikes.com,984-555-0148,S,M,9.5,Production,177
+137,Benjamin,R,Martin,Production Technician - WC30,00:00.0,00:00.0,benjamin0@elevation-bikes.com,533-555-0111,S,M,9.5,Production,188
+138,Cynthia,S,Randall,Production Supervisor - WC30,00:00.0,00:00.0,cynthia0@elevation-bikes.com,352-555-0138,S,F,25,Production,23
+139,Kathie,E,Flood,Production Technician - WC45,00:00.0,00:00.0,kathie0@elevation-bikes.com,446-555-0118,M,F,10,Production,201
+140,Britta,L,Simon,Production Technician - WC60,00:00.0,00:00.0,britta0@elevation-bikes.com,955-555-0169,M,F,12.45,Production,18
+141,Brian,T,Lloyd,Production Technician - WC40,00:00.0,00:00.0,brian0@elevation-bikes.com,110-555-0182,S,M,15,Production,214
+142,David,J,Liu,Accounts Manager,00:00.0,00:00.0,david6@elevation-bikes.com,646-555-0185,M,M,34.7356,Finance,143
+143,Laura,F,Norman,Chief Financial Officer,00:00.0,00:00.0,laura1@elevation-bikes.com,615-555-0110,M,F,60.0962,Executive,112
+144,Laura,F,Norman,Chief Financial Officer,00:00.0,00:00.0,laura1@elevation-bikes.com,615-555-0110,M,F,60.0962,Executive,112
+145,Michael,W,Patten,Production Technician - WC50,00:00.0,00:00.0,michael2@elevation-bikes.com,441-555-0195,S,M,11,Production,40
+146,Andy,M,Ruth,Production Technician - WC30,00:00.0,00:00.0,andy0@elevation-bikes.com,118-555-0110,M,M,9.5,Production,138
+147,Yuhong,L,Li,Production Supervisor - WC20,00:00.0,00:00.0,yuhong0@elevation-bikes.com,965-555-0155,M,M,25,Production,23
+148,Robert,J,Rounthwaite,Production Technician - WC45,00:00.0,00:00.0,robert0@elevation-bikes.com,589-555-0147,S,M,10,Production,163
+149,Andreas,T,Berglund,Quality Assurance Technician,00:00.0,00:00.0,andreas0@elevation-bikes.com,181-555-0124,M,M,10.5769,Quality Assurance,43
+150,Reed,T,Koch,Production Technician - WC30,00:00.0,00:00.0,reed0@elevation-bikes.com,678-555-0110,M,M,9.5,Production,188
+151,Linda,A,Randall,Production Technician - WC20,00:00.0,00:00.0,linda1@elevation-bikes.com,696-555-0157,S,F,14,Production,147
+152,James,R,Hamilton,Vice President of Production,00:00.0,00:00.0,james1@elevation-bikes.com,870-555-0122,S,M,84.1346,Production,112
+153,Ramesh,V,Meyyappan,Application Specialist,00:00.0,00:00.0,ramesh0@elevation-bikes.com,182-555-0134,S,M,27.4038,Information Services,44
+154,Stephanie,A,Conroy,Network Manager,00:00.0,00:00.0,stephanie0@elevation-bikes.com,594-555-0110,S,F,39.6635,Information Services,44
+155,Samantha,H,Smith,Production Technician - WC20,00:00.0,00:00.0,samantha0@elevation-bikes.com,587-555-0114,M,F,14,Production,111
+156,Tawana,G,Nusbaum,Production Technician - WC40,00:00.0,00:00.0,tawana0@elevation-bikes.com,368-555-0113,S,M,15,Production,214
+157,Denise,H,Smith,Production Technician - WC50,00:00.0,00:00.0,denise0@elevation-bikes.com,869-555-0119,M,F,11,Production,16
+158,Hao,O,Chen,Human Resources Administrative Assistant,00:00.0,00:00.0,hao0@elevation-bikes.com,806-555-0136,S,M,13.9423,Human Resources,32
+159,Alex,M,Nayberg,Production Technician - WC45,00:00.0,00:00.0,alex0@elevation-bikes.com,819-555-0198,M,M,10,Production,126
+160,Eugene,O,Kogan,Production Technician - WC60,00:00.0,00:00.0,eugene1@elevation-bikes.com,173-555-0179,S,M,12.45,Production,9
+161,Brandon,G,Heidepriem,Production Technician - WC60,00:00.0,00:00.0,brandon0@elevation-bikes.com,429-555-0137,M,M,12.45,Production,18
+162,Dylan,A,Miller,Research and Development Manager,00:00.0,00:00.0,dylan0@elevation-bikes.com,181-555-0156,M,M,50.4808,Research and Development,3
+163,Shane,S,Kim,Production Supervisor - WC45,00:00.0,00:00.0,shane0@elevation-bikes.com,810-555-0178,S,M,25,Production,23
+164,John,Y,Chen,Production Technician - WC20,00:00.0,00:00.0,john2@elevation-bikes.com,201-555-0163,M,M,14,Production,186
+165,Karen,R,Berge,Document Control Assistant,00:00.0,00:00.0,karen0@elevation-bikes.com,746-555-0164,M,F,10.25,Document Control,92
+166,Jose,R,Lugo,Production Technician - WC60,00:00.0,00:00.0,jose0@elevation-bikes.com,587-555-0115,M,M,12.45,Production,18
+167,Mandar,H,Samant,Production Technician - WC50,00:00.0,00:00.0,mandar0@elevation-bikes.com,140-555-0132,S,M,11,Production,76
+168,Mikael,Q,Sandberg,Buyer,00:00.0,00:00.0,mikael0@elevation-bikes.com,309-555-0170,S,M,18.2692,Purchasing,278
+169,Sameer,A,Tejani,Production Technician - WC50,00:00.0,00:00.0,sameer0@elevation-bikes.com,990-555-0172,M,M,11,Production,76
+170,Dragan,K,Tomic,Accounts Payable Specialist,00:00.0,00:00.0,dragan0@elevation-bikes.com,117-555-0185,M,M,19,Finance,142
+171,Carol,M,Philips,Production Technician - WC30,00:00.0,00:00.0,carol0@elevation-bikes.com,609-555-0153,M,F,9.5,Production,177
+172,Rob,T,Caron,Production Technician - WC40,00:00.0,00:00.0,rob1@elevation-bikes.com,238-555-0116,S,M,15,Production,89
+173,Don,L,Hall,Production Technician - WC50,00:00.0,00:00.0,don0@elevation-bikes.com,100-555-0174,M,M,11,Production,40
+174,Alan,J,Brewer,Scheduling Assistant,00:00.0,00:00.0,alan0@elevation-bikes.com,438-555-0172,M,M,16,Production Control,46
+175,David,Oliver,Lawrence,Production Technician - WC30,00:00.0,00:00.0,david7@elevation-bikes.com,118-555-0177,M,M,9.5,Production,188
+176,Baris,F,Cetinok,Production Technician - WC40,00:00.0,00:00.0,baris0@elevation-bikes.com,164-555-0114,S,M,15,Production,89
+177,Michael,Sean,Ray,Production Supervisor - WC30,00:00.0,00:00.0,michael3@elevation-bikes.com,156-555-0199,S,M,25,Production,23
+178,Steve,F,Masters,Production Technician - WC60,00:00.0,00:00.0,steve0@elevation-bikes.com,712-555-0170,S,M,12.45,Production,20
+179,Suchitra,O,Mohan,Production Technician - WC60,00:00.0,00:00.0,suchitra0@elevation-bikes.com,753-555-0129,M,F,12.45,Production,18
+180,Karen,A,Berg,Application Specialist,00:00.0,00:00.0,karen1@elevation-bikes.com,654-555-0177,S,F,27.4038,Information Services,44
+181,Terrence,W,Earls,Production Technician - WC20,00:00.0,00:00.0,terrence0@elevation-bikes.com,110-555-0115,S,M,14,Production,147
+182,Barbara,C,Moreland,Accountant,00:00.0,00:00.0,barbara1@elevation-bikes.com,822-555-0145,M,F,26.4423,Finance,142
+183,Chad,W,Niswonger,Production Technician - WC50,00:00.0,00:00.0,chad0@elevation-bikes.com,559-555-0175,M,M,11,Production,40
+184,Rostislav,E,Shabalin,Production Technician - WC30,00:00.0,00:00.0,rostislav0@elevation-bikes.com,751-555-0134,M,M,9.5,Production,138
+185,Belinda,M,Newman,Production Technician - WC45,00:00.0,00:00.0,belinda0@elevation-bikes.com,319-555-0126,S,F,10,Production,201
+186,Katie,L,McAskill-White,Production Supervisor - WC20,00:00.0,00:00.0,katie0@elevation-bikes.com,809-555-0133,S,F,25,Production,23
+187,Russell,M,King,Production Technician - WC30,00:00.0,00:00.0,russell1@elevation-bikes.com,517-555-0122,M,M,9.5,Production,188
+188,Jack,S,Richins,Production Supervisor - WC30,00:00.0,00:00.0,jack0@elevation-bikes.com,552-555-0111,S,M,25,Production,23
+189,Andrew,R,Hill,Production Supervisor - WC10,00:00.0,00:00.0,andrew0@elevation-bikes.com,908-555-0159,S,M,25,Production,23
+190,Nicole,B,Holliday,Production Technician - WC40,00:00.0,00:00.0,nicole0@elevation-bikes.com,508-555-0129,M,F,15,Production,89
+191,Frank,T,Miller,Production Technician - WC50,00:00.0,00:00.0,frank1@elevation-bikes.com,167-555-0139,S,M,11,Production,16
+192,Peter,I,Connelly,Network Administrator,00:00.0,00:00.0,peter1@elevation-bikes.com,310-555-0133,S,M,32.4519,Information Services,154
+193,Anibal,T,Sousa,Production Technician - WC20,00:00.0,00:00.0,anibal0@elevation-bikes.com,106-555-0120,S,F,14,Production,111
+194,Ken,L,Myer,Production Technician - WC40,00:00.0,00:00.0,ken1@elevation-bikes.com,949-555-0174,M,M,15,Production,214
+195,Grant,N,Culbertson,Human Resources Administrative Assistant,00:00.0,00:00.0,grant0@elevation-bikes.com,955-555-0131,S,M,13.9423,Human Resources,32
+196,Michael,T,Entin,Production Technician - WC50,00:00.0,00:00.0,michael4@elevation-bikes.com,817-555-0186,S,M,11,Production,40
+197,Lionel,C,Penuchot,Production Technician - WC45,00:00.0,00:00.0,lionel0@elevation-bikes.com,450-555-0152,S,M,10,Production,163
+198,Thomas,R,Michaels,Production Technician - WC60,00:00.0,00:00.0,thomas0@elevation-bikes.com,278-555-0118,M,M,12.45,Production,9
+199,Jimmy,T,Bischoff,Stocker,00:00.0,00:00.0,jimmy0@elevation-bikes.com,927-555-0168,M,M,9,Shipping and Receiving,87
+200,Michael,T,Vanderhyde,Production Technician - WC30,00:00.0,00:00.0,michael5@elevation-bikes.com,296-555-0121,M,M,9.5,Production,138
+201,Lori,A,Kane,Production Supervisor - WC45,00:00.0,00:00.0,lori0@elevation-bikes.com,289-555-0196,S,F,25,Production,23
+202,Arvind,B,Rao,Buyer,00:00.0,00:00.0,arvind0@elevation-bikes.com,848-555-0163,M,M,18.2692,Purchasing,278
+203,Stefen,A,Hesse,Production Technician - WC20,00:00.0,00:00.0,stefen0@elevation-bikes.com,165-555-0113,S,M,14,Production,186
+204,Hazem,E,Abolrous,Quality Assurance Manager,00:00.0,00:00.0,hazem0@elevation-bikes.com,869-555-0125,S,M,28.8462,Quality Assurance,23
+205,Janet,L,Sheperdigian,Accounts Payable Specialist,00:00.0,00:00.0,janet0@elevation-bikes.com,393-555-0186,M,F,19,Finance,142
+206,Elizabeth,I,Keyser,Production Technician - WC50,00:00.0,00:00.0,elizabeth0@elevation-bikes.com,318-555-0137,M,F,11,Production,76
+207,Terry,J,Eminhizer,Marketing Specialist,00:00.0,00:00.0,terry0@elevation-bikes.com,138-555-0118,M,M,14.4231,Marketing,7
+208,John,N,Frum,Production Technician - WC30,00:00.0,00:00.0,john3@elevation-bikes.com,663-555-0172,S,M,9.5,Production,188
+209,Merav,A,Netz,Production Technician - WC30,00:00.0,00:00.0,merav0@elevation-bikes.com,224-555-0187,M,F,9.5,Production,177
+210,Brian,P,LaMee,Scheduling Assistant,00:00.0,00:00.0,brian1@elevation-bikes.com,313-555-0196,M,M,16,Production Control,46
+211,Kitti,H,Lertpiriyasuwat,Production Technician - WC50,00:00.0,00:00.0,kitti0@elevation-bikes.com,785-555-0132,S,F,11,Production,40
+212,Jay,G,Adams,Production Technician - WC60,00:00.0,00:00.0,jay0@elevation-bikes.com,407-555-0165,S,M,12.45,Production,20
+213,Jan,S,Miksovsky,Production Technician - WC30,00:00.0,00:00.0,jan0@elevation-bikes.com,139-555-0131,S,M,9.5,Production,188
+214,Brenda,M,Diaz,Production Supervisor - WC40,00:00.0,00:00.0,brenda0@elevation-bikes.com,142-555-0139,M,F,25,Production,23
+215,Andrew,M,Cencini,Production Technician - WC45,00:00.0,00:00.0,andrew1@elevation-bikes.com,207-555-0192,S,M,10,Production,126
+216,Chris,K,Norred,Control Specialist,00:00.0,00:00.0,chris1@elevation-bikes.com,575-555-0126,M,M,16.8269,Document Control,92
+217,Chris,O,Okelberry,Production Technician - WC60,00:00.0,00:00.0,chris2@elevation-bikes.com,315-555-0144,S,M,12.45,Production,18
+218,Shelley,N,Dyck,Production Technician - WC20,00:00.0,00:00.0,shelley0@elevation-bikes.com,991-555-0184,S,F,14,Production,147
+219,Gabe,B,Mares,Production Technician - WC40,00:00.0,00:00.0,gabe0@elevation-bikes.com,310-555-0117,M,M,15,Production,214
+220,Mike,K,Seamans,Accountant,00:00.0,00:00.0,mike0@elevation-bikes.com,927-555-0150,S,M,26.4423,Finance,142
+221,Michael,NULL,Raheem,Research and Development Manager,00:00.0,00:00.0,michael6@elevation-bikes.com,330-555-2568,M,M,42.4808,Research and Development,162
+222,Gary,E.,Altman,Facilities Manager,00:00.0,00:00.0,gary1@elevation-bikes.com,110-555-0112,M,M,24.0385,Facilities and Maintenance,152
+223,Charles,B,Fitzgerald,Production Technician - WC60,00:00.0,00:00.0,charles0@elevation-bikes.com,931-555-0118,S,M,12.45,Production,20
+224,Ebru,N,Ersan,Production Technician - WC10,00:00.0,00:00.0,ebru0@elevation-bikes.com,202-555-0187,S,M,13.45,Production,27
+225,Sylvester,A,Valdez,Production Technician - WC20,00:00.0,00:00.0,sylvester0@elevation-bikes.com,492-555-0174,M,M,14,Production,111
+226,Brian,Richard,Goldstein,Production Technician - WC40,00:00.0,00:00.0,brian2@elevation-bikes.com,730-555-0117,S,M,15,Production,53
+227,Linda,P,Meisner,Buyer,00:00.0,00:00.0,linda2@elevation-bikes.com,916-555-0165,M,F,18.2692,Purchasing,278
+228,Betsy,A,Stadick,Production Technician - WC10,00:00.0,00:00.0,betsy0@elevation-bikes.com,405-555-0171,S,F,13.45,Production,66
+229,Magnus,E,Hedlund,Facilities Administrative Assistant,00:00.0,00:00.0,magnus0@elevation-bikes.com,583-555-0182,M,M,9.75,Facilities and Maintenance,222
+230,Karan,R,Khanna,Production Technician - WC60,00:00.0,00:00.0,karan0@elevation-bikes.com,447-555-0186,S,M,12.45,Production,20
+231,Mary,R,Baker,Production Technician - WC10,00:00.0,00:00.0,mary1@elevation-bikes.com,283-555-0185,M,F,13.45,Production,27
+232,Kevin,M,Homer,Production Technician - WC10,00:00.0,00:00.0,kevin2@elevation-bikes.com,555-555-0113,S,M,13.45,Production,27
+233,Mihail,U,Frintu,Production Technician - WC40,00:00.0,00:00.0,mihail0@elevation-bikes.com,733-555-0128,S,M,15,Production,53
+234,Bonnie,N,Kearney,Production Technician - WC10,00:00.0,00:00.0,bonnie0@elevation-bikes.com,264-555-0150,M,F,13.45,Production,189
+235,Fukiko,J,Ogisu,Buyer,00:00.0,00:00.0,fukiko0@elevation-bikes.com,520-555-0177,M,M,18.2692,Purchasing,278
+236,Hung-Fu,T,Ting,Production Technician - WC20,00:00.0,00:00.0,hung-fu0@elevation-bikes.com,497-555-0181,S,M,14,Production,111
+237,Gordon,L,Hee,Buyer,00:00.0,00:00.0,gordon0@elevation-bikes.com,230-555-0144,M,M,18.2692,Purchasing,278
+238,Kimberly,B,Zimmerman,Production Technician - WC10,00:00.0,00:00.0,kimberly0@elevation-bikes.com,123-555-0167,S,F,13.45,Production,66
+239,Kim,B,Abercrombie,Production Technician - WC60,00:00.0,00:00.0,kim1@elevation-bikes.com,208-555-0114,M,F,12.45,Production,18
+240,Sandeep,P,Kaliyath,Production Technician - WC40,00:00.0,00:00.0,sandeep0@elevation-bikes.com,166-555-0156,S,M,15,Production,53
+241,Prasanna,E,Samarawickrama,Production Technician - WC20,00:00.0,00:00.0,prasanna0@elevation-bikes.com,129-555-0199,M,M,14,Production,111
+242,Frank,S,Pellow,Buyer,00:00.0,00:00.0,frank2@elevation-bikes.com,163-555-0147,M,M,18.2692,Purchasing,278
+243,Min,G,Su,Production Technician - WC20,00:00.0,00:00.0,min0@elevation-bikes.com,590-555-0152,M,M,14,Production,111
+244,Eric,L,Brown,Production Technician - WC40,00:00.0,00:00.0,eric1@elevation-bikes.com,680-555-0118,M,M,15,Production,53
+245,Eric,S,Kurjan,Buyer,00:00.0,00:00.0,eric2@elevation-bikes.com,265-555-0195,S,M,18.2692,Purchasing,278
+246,Pat,H,Coleman,Janitor,00:00.0,00:00.0,pat0@elevation-bikes.com,720-555-0158,S,M,9.25,Facilities and Maintenance,51
+247,Maciej,W,Dusza,Production Technician - WC60,00:00.0,00:00.0,maciej0@elevation-bikes.com,237-555-0128,S,M,12.45,Production,20
+248,Erin,M,Hagens,Buyer,00:00.0,00:00.0,erin0@elevation-bikes.com,842-555-0158,S,F,18.2692,Purchasing,278
+249,Patrick,C,Wedge,Production Technician - WC10,00:00.0,00:00.0,patrick0@elevation-bikes.com,413-555-0124,S,M,13.45,Production,66
+250,Frank,R,Martinez,Production Technician - WC40,00:00.0,00:00.0,frank3@elevation-bikes.com,203-555-0196,M,M,15,Production,53
+251,Ed,R,Dudenhoefer,Production Technician - WC60,00:00.0,00:00.0,ed0@elevation-bikes.com,919-555-0140,S,M,12.45,Production,18
+252,Christopher,E,Hill,Production Technician - WC10,00:00.0,00:00.0,christopher0@elevation-bikes.com,153-555-0166,M,M,13.45,Production,27
+253,Patrick,M,Cook,Production Technician - WC40,00:00.0,00:00.0,patrick1@elevation-bikes.com,425-555-0117,M,M,15,Production,53
+254,Krishna,NULL,Sunkammurali,Production Technician - WC20,00:00.0,00:00.0,krishna0@elevation-bikes.com,491-555-0183,S,M,14,Production,111
+255,Lori,K,Penor,Janitor,00:00.0,00:00.0,lori1@elevation-bikes.com,295-555-0161,M,F,9.25,Facilities and Maintenance,51
+256,Danielle,C,Tiedt,Production Technician - WC10,00:00.0,00:00.0,danielle0@elevation-bikes.com,500-555-0172,S,F,13.45,Production,66
+257,Sootha,T,Charncherngkha,Quality Assurance Technician,00:00.0,00:00.0,sootha0@elevation-bikes.com,325-555-0137,M,M,10.5769,Quality Assurance,43
+258,Michael,J,Zwilling,Production Technician - WC60,00:00.0,00:00.0,michael7@elevation-bikes.com,582-555-0148,S,M,12.45,Production,20
+259,Randy,T,Reeves,Production Technician - WC60,00:00.0,00:00.0,randy0@elevation-bikes.com,961-555-0122,M,M,12.45,Production,20
+260,John,T,Kane,Production Technician - WC10,00:00.0,00:00.0,john4@elevation-bikes.com,254-555-0114,S,M,13.45,Production,27
+261,Jack,T,Creasey,Production Technician - WC40,00:00.0,00:00.0,jack1@elevation-bikes.com,521-555-0113,S,M,15,Production,53
+262,Olinda,C,Turner,Production Technician - WC20,00:00.0,00:00.0,olinda0@elevation-bikes.com,306-555-0186,S,F,14,Production,111
+263,Stuart,J,Macrae,Janitor,00:00.0,00:00.0,stuart1@elevation-bikes.com,539-555-0149,M,M,9.25,Facilities and Maintenance,51
+264,Jo,L,Berry,Janitor,00:00.0,00:00.0,jo1@elevation-bikes.com,228-555-0159,M,F,9.25,Facilities and Maintenance,51
+265,Ben,T,Miller,Buyer,00:00.0,00:00.0,ben0@elevation-bikes.com,151-555-0113,M,M,18.2692,Purchasing,278
+266,Tom,M,Vande Velde,Production Technician - WC10,00:00.0,00:00.0,tom0@elevation-bikes.com,295-555-0161,M,M,13.45,Production,66
+267,Ovidiu,V,Cracium,Senior Tool Designer,00:00.0,00:00.0,ovidiu0@elevation-bikes.com,719-555-0181,S,M,28.8462,Tool Design,3
+268,Annette,L,Hill,Purchasing Assistant,00:00.0,00:00.0,annette0@elevation-bikes.com,125-555-0196,M,F,12.75,Purchasing,278
+269,Janice,M,Galvin,Tool Designer,00:00.0,00:00.0,janice0@elevation-bikes.com,473-555-0117,M,F,25,Tool Design,267
+270,Reinout,N,Hillmann,Purchasing Assistant,00:00.0,00:00.0,reinout0@elevation-bikes.com,370-555-0163,M,M,12.75,Purchasing,278
+271,Michael,I,Sullivan,Senior Design Engineer,00:00.0,00:00.0,michael8@elevation-bikes.com,465-555-0156,S,M,36.0577,Engineering,3
+272,Stephen,Y,Jiang,North American Sales Manager,00:00.0,00:00.0,stephen0@elevation-bikes.com,238-555-0197,M,M,48.101,Sales,277
+273,Wanida,M,Benshoof,Marketing Assistant,00:00.0,00:00.0,wanida0@elevation-bikes.com,708-555-0141,M,F,13.4615,Marketing,7
+274,Sharon,B,Salavaria,Design Engineer,00:00.0,00:00.0,sharon0@elevation-bikes.com,970-555-0138,M,F,32.6923,Engineering,3
+275,John,L,Wood,Marketing Specialist,00:00.0,00:00.0,john5@elevation-bikes.com,486-555-0150,S,M,14.4231,Marketing,7
+276,Mary,A,Dempsey,Marketing Assistant,00:00.0,00:00.0,mary2@elevation-bikes.com,124-555-0114,S,F,13.4615,Marketing,7
+277,Brian,S,Welcker,Vice President of Sales,00:00.0,00:00.0,brian3@elevation-bikes.com,716-555-0127,S,M,72.1154,Sales,112
+278,Sheela,H,Word,Purchasing Manager,00:00.0,00:00.0,sheela0@elevation-bikes.com,210-555-0193,S,F,30,Purchasing,73
+279,Sheela,H,Word,Purchasing Manager,00:00.0,00:00.0,sheela0@elevation-bikes.com,210-555-0193,S,F,30,Purchasing,73
+280,Sheela,H,Word,Purchasing Manager,00:00.0,00:00.0,sheela0@elevation-bikes.com,210-555-0193,S,F,30,Purchasing,73
+281,Michael,G,Blythe,Sales Representative,00:00.0,00:00.0,michael9@elevation-bikes.com,257-555-0154,S,M,23.0769,Sales,272
+282,Linda,C,Mitchell,Sales Representative,00:00.0,00:00.0,linda3@elevation-bikes.com,883-555-0116,M,F,23.0769,Sales,272
+283,Jillian,NULL,Carson,Sales Representative,00:00.0,00:00.0,jillian0@elevation-bikes.com,517-555-0117,S,F,23.0769,Sales,272
+284,Garrett,R,Vargas,Sales Representative,00:00.0,00:00.0,garrett1@elevation-bikes.com,922-555-0165,M,M,23.0769,Sales,272
+285,Tsvi,Michael,Reiter,Sales Representative,00:00.0,00:00.0,tsvi0@elevation-bikes.com,664-555-0112,M,M,23.0769,Sales,272
+286,Pamela,O,Ansman-Wolfe,Sales Representative,00:00.0,00:00.0,pamela0@elevation-bikes.com,340-555-0193,S,F,23.0769,Sales,272
+287,Shu,K,Ito,Sales Representative,00:00.0,00:00.0,shu0@elevation-bikes.com,330-555-0120,M,M,23.0769,Sales,272
+288,José,Edvaldo,Saraiva,Sales Representative,00:00.0,00:00.0,josé1@elevation-bikes.com,185-555-0169,M,M,23.0769,Sales,272
+289,David,R,Campbell,Sales Representative,00:00.0,00:00.0,david8@elevation-bikes.com,740-555-0182,S,M,23.0769,Sales,272
+290,Amy,E,Alberts,European Sales Manager,00:00.0,00:00.0,amy0@elevation-bikes.com,775-555-0164,M,F,48.101,Sales,277
+291,Jae,B,Pak,Sales Representative,00:00.0,00:00.0,jae0@elevation-bikes.com,1 (11) 500 555-0145,M,F,23.0769,Sales,290
+292,Ranjit,R,Varkey Chudukatil,Sales Representative,00:00.0,00:00.0,ranjit0@elevation-bikes.com,1 (11) 500 555-0117,S,M,23.0769,Sales,290
+293,Tete,A,Mensa-Annan,Sales Representative,00:00.0,00:00.0,tete0@elevation-bikes.com,615-555-0153,M,M,23.0769,Sales,272
+294,Syed,E,Abbas,Pacific Sales Manager,00:00.0,00:00.0,syed0@elevation-bikes.com,926-555-0182,M,M,48.101,Sales,277
+295,Rachel,B,Valdez,Sales Representative,00:00.0,00:00.0,rachel0@elevation-bikes.com,1 (11) 500 555-0140,S,F,23.0769,Sales,290
+296,Lynn,N,Tsoflias,Sales Representative,00:00.0,00:00.0,lynn0@elevation-bikes.com,1 (11) 500 555-0190,S,F,23.0769,Sales,294
