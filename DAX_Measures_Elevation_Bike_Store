@@ -1,0 +1,77 @@
+# DAX Measures – Elevation Bike Store Project
+
+**Total Customers**
+```DAX
+DISTINCTCOUNT(Sales[SoldTo])
+```
+
+**Total Loss Due To Returns**
+```DAX
+SUMX(
+    Returns,
+    Returns[ReturnQuantity] * RELATED(Products[ProductPrice])
+)
+```
+
+**Annual Return Loss**
+```DAX
+[Total_Loss_Due_To_Returns] / 2.5
+```
+
+**Total Bike Returns**
+```DAX
+CALCULATE(
+    SUM(Returns[ReturnQuantity]),
+    TREATAS(
+        SELECTCOLUMNS(
+            FILTER('Sub Categories', RELATED(Categories[CategoryName]) = "Bikes"),
+            "SubcategoryID", 'Sub Categories'[ID]
+        ),
+        Products[SubcategoryID]
+    )
+)
+```
+
+**Return Loss (€)**
+```DAX
+SUMX(
+    Returns,
+    Returns[ReturnQuantity] * RELATED(Products[UnitProfit_€])
+)
+```
+
+**Total Returned Units**
+```DAX
+SUM(Returns[ReturnQuantity])
+```
+
+**Return Rate (%)**
+```DAX
+DIVIDE([Total_Returned_Units], [Total_Stock_Units]) * 100
+```
+
+**Total Sales**
+```DAX
+SUMX(Sales, Sales[OrderQuantity] * RELATED(Products[ProductPrice]))
+```
+
+**Average Orders Per Customer**
+```DAX
+AVERAGEX(
+    VALUES(Sales[SoldTo]),
+    CALCULATE(DISTINCTCOUNT(Sales[OrderNumber]))
+)
+```
+
+**Unique Products Sold**
+```DAX
+CALCULATE(
+    DISTINCTCOUNT(Sales[ProductSold]),
+    TREATAS(VALUES(Customers[CustomerID]), Sales[SoldTo])
+)
+```
+
+**Total Stock Units**
+```DAX
+SUM(Stocks[UnitsInStock])
+```
