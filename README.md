@@ -22,6 +22,37 @@ All datasets are real, not fictional.
   - [Sub_Categories.csv](data/Sub%20Categories.csv)  
 
 ---
+## Data Modeling (ERD)
+--------------------------
+<img width="1110" height="537" alt="Screenshot 2025-08-21 072722" src="https://github.com/user-attachments/assets/02852055-e123-4db0-a6cb-c90ea09f9249" />
+
+Table Relationships and Keys
+
+BlankReturnProductIDs (ID) → Products (ID)
+
+Customers (CustomerID) → Customer Types (ID)
+
+Products (SubcategoryID) → Sub Categories (ID)
+
+Returns (ProductReturned) → Products (ID)
+
+Returns (ReturnedIn) → Stores (ID)
+
+Sales (ProductSold) → Products (ID)
+
+Sales (SoldBy) → Staff (StaffMemberID)
+
+Sales (SoldIn) → Stores (ID)
+
+Sales (SoldTo) → Customers (CustomerID)
+
+Stocks (ProductID) → Products (ID)
+
+Stocks (StoreID) → Stores (ID)
+
+Sub Categories (CategoryID) → Categories (ID)
+
+All relationships are many-to-one, enforcing referential integrity.
 
 ## 📌 Key Insights
 - **€765K in returns over 2.5 years**, with **€571K (75%)** coming from just 5 bike models.  
